@@ -7,7 +7,7 @@
 		"start": "nodemon index.js"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Āya Refaey",
 	"license": "ISC",
 	"dependencies": {
 		"dotenv": "^16.4.5",
